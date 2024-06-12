@@ -1,0 +1,25 @@
+
+.modal-header {
+    background-color: #2A3893; 
+    color: white; 
+  }
+  .modal-dialog {
+    max-width: 600px;
+  }
+
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px; 
+  }
+  
+  .label {
+    width: 100px; 
+    font-weight: bold;
+    color:#2A3893;
+  }
+
+  .modal-footer {
+    display: flex;
+    justify-content: center;
+  }

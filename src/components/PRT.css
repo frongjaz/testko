@@ -1,0 +1,26 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  /* ModalDetail.css */
+  .modal-content {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    text-align: left;
+    color: #2A3893;
+    margin-left: 50px; 
+  }
+  
+  h2 {
+    text-align: left;
+    color: #2A3893;
+    margin-left: 100px; 
+  }
